@@ -1,2 +1,3 @@
-# voltdb-extrafunctions
-Extra Java functions for VoltDB
+# voltdb-aggdemo
+A demonstration of how VoltDB can be used for the kind of streaming aggregation tasks common in Telco
+
